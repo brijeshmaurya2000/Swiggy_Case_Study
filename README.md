@@ -1,2 +1,6 @@
-# Swiggy_Case_Study
-Introduction  Swiggy is one of India’s leading on-demand food delivery platforms, founded in 2014 by Sriharsha Majety, Nandan Reddy, and Rahul Jaimini. Headquartered in Bengaluru, Swiggy connects customers with restaurants through a technology-driven logistics network, enabling fast and reliable food delivery. 
+ #SWIGGY APP DATA ANALYSIS (INTERACTIVE
+DASHBOARD CREATION USING MS EXCEL)
+
+ #INRODUCTION
+ Swiggy is one of India’s leading online food delivery platform connecting customers with restaurants. This project analyzes Swiggy order data to understand customer behavior, restaurant performance, delivery efficiency, and revenue trends using data analytics techniques.
+ 
