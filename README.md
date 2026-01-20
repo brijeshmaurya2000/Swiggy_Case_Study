@@ -32,6 +32,8 @@ Dataset Used
 - Created pivot tables according to the questions asked.
 - Marg all pivot tables into one dashboard and apply slicer to make dynamic.
 
-  #DASHBOARD <img width="679" height="415" alt="Dashboard_image" src="https://github.com/user-attachments/assets/01682954-902d-4a3e-b6c2-c7ebbb11cde9" />
+  #DASHBOARD
+
+   <img width="679" height="415" alt="Dashboard_image" src="https://github.com/user-attachments/assets/01682954-902d-4a3e-b6c2-c7ebbb11cde9" />
 
 
