@@ -8,8 +8,8 @@ Dataset Used
 
 ## PROBLEM STATEMENT
 ## BRD: KPI’s
-. Total Sales (₹) - Overall revenue generated from food orders.
-. Average Rating - Customer satisfaction level across restaurants.
+- . Total Sales (₹) - Overall revenue generated from food orders.
+- . Average Rating - Customer satisfaction level across restaurants.
 . Average Order Value (₹) - Revenue per order.
 . Rating Counts - Total number of customer reviews.
 . Total Orders – Number of food orders received.
