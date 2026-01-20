@@ -40,4 +40,9 @@ Dataset Used
 - Bengaluru is the highest sales state.
 - January is the highest sales month.
 
+## INSIGHTS
+- Non – Veg sales 35 % and Veg sales 65.
+- Sunday, Thursday and Saturday highest sales.
+- Bengaluru is the highest sales state.
+- January is the highest sales month.
 
