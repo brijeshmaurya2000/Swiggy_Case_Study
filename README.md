@@ -3,3 +3,5 @@
  ## INRODUCTION
  Swiggy is one of India’s leading online food delivery platform connecting customers with restaurants. This project analyzes Swiggy order data to understand customer behavior, restaurant performance, delivery efficiency, and revenue trends using data analytics techniques.
  
+Dataset Used
+. Swiggy dataset
