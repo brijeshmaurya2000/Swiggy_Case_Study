@@ -8,8 +8,18 @@ Dataset Used
 
 ## PROBLEM STATEMENT
 ## BRD: KPI’s
-. Total Sales ($) - Overall revenue generated from food orders.
+. Total Sales (₹) - Overall revenue generated from food orders.
 . Average Rating - Customer satisfaction level across restaurants.
-. Average Order Value () - Revenue per order.
+. Average Order Value (₹) - Revenue per order.
 . Rating Counts - Total number of customer reviews.
 . Total Orders – Number of food orders received.
+
+## BRD: CHART’s
+
+. Monthly Sales Trend - Shows how total sales fluctuate month by month.
+. Daily Sales Trend - Highlights order and revenue variations across days of the week.
+. Total Sales by Food Type (Veg vs Non - Veg)  -  Compares revenue contribution by cuisine type.
+. Total Sales by State (Map Visualization) - Display state – wise revenue distribution.
+. Quarterly Performance Summary - Combine Sales, Ratings, and Orders by Quarter.
+. Top 5 City by Sales - Identifies leading, cities contributing the most revenue.
+. Weekly Trend Analysis - Monitors weekly fluctuations in sales to identify to identify consistency or peak periods.
