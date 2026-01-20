@@ -34,5 +34,10 @@ Dataset Used
   # DASHBOARD
 
    <img width="679" height="415" alt="Dashboard_image" src="https://github.com/user-attachments/assets/01682954-902d-4a3e-b6c2-c7ebbb11cde9" />
+## INSIGHTS
+- Non – Veg sales 35 % and Veg sales 65.
+- Sunday, Thursday and Saturday highest sales.
+- Bengaluru is the highest sales state.
+- January is the highest sales month.
 
 
