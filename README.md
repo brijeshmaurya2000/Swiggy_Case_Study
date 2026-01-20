@@ -15,7 +15,6 @@ Dataset Used
 - Total Orders – Number of food orders received.
 
 ## BRD: CHART’s
-
 - Monthly Sales Trend - Shows how total sales fluctuate month by month.
 - Daily Sales Trend - Highlights order and revenue variations across days of the week.
 - Total Sales by Food Type (Veg vs Non - Veg)  -  Compares revenue contribution by cuisine type.
@@ -24,7 +23,8 @@ Dataset Used
 - Top 5 City by Sales - Identifies leading, cities contributing the most revenue.
 - Weekly Trend Analysis - Monitors weekly fluctuations in sales to identify to identify consistency or peak periods.
 
-  ## DASHBOARD <a href="https://github.com/brijeshmaurya2000/Swiggy_Case_Study/commit/07bce0ddbc902a5ae67900eb0dc41a57d47d1db6">Dashboard<a>
+  ## DASHBOARD
+  <a href="https://github.com/brijeshmaurya2000/Swiggy_Case_Study/commit/07bce0ddbc902a5ae67900eb0dc41a57d47d1db6">Dashboard<a>
 
   ##Process
 - Make sure data is consistent and clean with respect to data type, data format and values used.
