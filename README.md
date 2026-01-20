@@ -40,9 +40,7 @@ Dataset Used
 - Bengaluru is the highest sales state.
 - January is the highest sales month.
 
-## INSIGHTS
-- Non – Veg sales 35 % and Veg sales 65.
-- Sunday, Thursday and Saturday highest sales.
-- Bengaluru is the highest sales state.
-- January is the highest sales month.
+ ## Conclusion 
+Based on the infights, vegetarian food contributes the majority of sales at 65%  indicating a stronger customer preference compared to non – vegetarian items, which account for 35% of sales. Sales performance is highest On Sunday, Thursday, and Saturday, showing that demand peaks on weekends and specific weekdays. Additionally, Bengaluru emerges as the highest sales – generating location, highlighting it as a key market with strong  customer demand.
+
 
